@@ -1,0 +1,41 @@
+Q1). Define AI, ML, DL & Generative AI?
+    1). Artificial Intelligence (AI)
+        • Agents automating task typically performed manually by humans.
+    2). Machine Learning (ML)
+        • Systems that use algorithms and data to infer patterns.
+    3). Deep Learning (DL)
+        • ML technique that uses algorithms known as neural networks.
+    4). Generative AI
+        • Use of deep learning algorithms to generate new content (text, images etc.)
+
+Q2). What can we do with AI & ML?
+    1). Language
+        • Analyze sentiment of customer reviews.
+        • Virtual Agents/Chatbots.
+        • Translate text or code.
+    2). Computer Vision
+        • Identity objecs is an image or video.
+    3). Classification
+        • Label the severity of a customer reported issue.
+    4). Anomaly Detection
+        • Predictive maintenance.
+    5). Forecasting
+        • Quarterly sales.
+
+Q3). AI & ML for .NET Developers
+    1). Services 
+        • Azure OpenAI
+        • Azure Cognitive Services
+    2). Frameworks & libraries
+        • Semantic Kernel
+        • ML.NET
+        • Automated Machine Learning (AutoML)
+        • TorchSharp
+        • SciSharp (TensorFlow.NET)
+        • Open Neural Networks Exchange (ONNX)
+        • Plotly.NET
+    3). Tools
+        • Model Builder
+        • ML.NET CLI
+        • Polyglot Notebooks
+
