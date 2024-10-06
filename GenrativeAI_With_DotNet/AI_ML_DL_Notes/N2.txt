@@ -1,0 +1,7 @@
+Q1). What is chat GPT?
+    • General Pretrained Transformers (GPT) is a general-purpose Generative AI model that can be 
+      used for a wide range of language-related tasks.
+    • Chat GPT builds on top of it and is designed for conversational tasks.
+        • Roles
+        • Chat/ Message History
+    • 
